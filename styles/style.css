@@ -99,16 +99,12 @@ line-height: 24px;
 color: #FFFFFF;
 
 }
-.arrow{
-    
-}
+
 .right-side{
     padding-left:  129px;
     padding-top: 128px;
 }
-.left-side{
-    
-}
+
 .camera{
     width: 440px;
 height: 414px;
@@ -137,3 +133,4 @@ background-position: center;
     margin-right: 126px;
     margin-left: 126px;
     
+}
